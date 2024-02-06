@@ -1,0 +1,10 @@
+C:\Users\Sebi\source\repos\trex\bin\Debug\trex.exe.config
+C:\Users\Sebi\source\repos\trex\bin\Debug\trex.exe
+C:\Users\Sebi\source\repos\trex\bin\Debug\trex.pdb
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.csproj.AssemblyReference.cache
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.Properties.Resources.resources
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.csproj.GenerateResource.cache
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.csproj.CoreCompileInputs.cache
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.exe
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.pdb
+C:\Users\Sebi\source\repos\trex\obj\Debug\trex.Form1.resources
